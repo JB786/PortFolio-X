@@ -4,7 +4,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://jb786.github.io/PortFolio-X/"><strong>➥ Live Demo</strong></a>
+  <a href="https://jb786.github.io/Portfolio-X/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -22,13 +22,13 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/JB786/PortFolio-X.git
+sudo git clone https://github.com/JB786/Portfolio-X.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/JB786/PortFolio-X.git
+git clone https://github.com/JB786/Portfolio-X.git
 ```
 
 ### Contact
